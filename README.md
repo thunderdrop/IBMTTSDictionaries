@@ -1,7 +1,7 @@
 # IBMTTSDictionaries
 For use with ECI.DLL.
 ## Description
-These are the Root and Main dictionaries, to be used with the IBMTTS (ETI Eloquence) driver (not provided). You will either need the ECI library, or something which incorporates it, and supports the loading of custom dictionaries, such as a screen reader addon or text to speech program.
+This is a community project for modifying pronunciation dictionary files, used with the IBMTTS (ETI Eloquence) driver (not provided). You will either need the ECI library, or something which incorporates it, and    supports the loading of custom dictionaries, such as a screen reader addon or text to speech program.
 ## Usage
 If you are using an NVDA addon or similar which incorporates this dictionary already, you do not need to do anything to make your existing dictionary work.
 
