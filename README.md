@@ -1,1 +1,4 @@
 # IBMTTSDictionaries
+This repository aims to be a community compilation of pronunciation fixes for the Eloquence synthesizer, available as dictionary files which are parsed by some wrapper implementations. ECI supports these formats natively, however the thing wrapping it to interact with whatever application you are using, such as a screen reader, has to tell it to load these files. All publicly available Eloquence add-ons for NVDA support this functionality if the dictionary file is placed alongside the synthesizer binaries.
+# Contributing Entries
+To contribute entries, see issues #1 (Roots Dictionary) and #2 (Main Dictionary). You may also submit pull requests to the repository, which can be useful in the case of large merges.
