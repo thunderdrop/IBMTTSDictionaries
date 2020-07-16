@@ -19,6 +19,6 @@ If you wish to contribute without making a pull request, comment on the Submissi
 Pronunciation tends toward General American for most words, though IBMTTS itself has an accent more specific to middle and northern New England. Names and other proper nouns may require some discussion.
 
 ## Credits
-These files are maintained by thunderdrop and [x0](https://github.com/ultrasound1372), with contributions from many.
+These files are maintained by [x0](https://github.com/ultrasound1372), [amirsol81](https://github.com/amirsol81), and [thunderdrop](https://github.com/thunderdrop), with contributions from many.
 
 NO ownership of the IBMTTS driver and/or dependencies is implied or should be inferred.
