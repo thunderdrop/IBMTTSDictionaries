@@ -1,5 +1,5 @@
-statusbar	Status Bar
 liblouis	lib loui
+statusbar	Status Bar
 textsynth	Text Synth
 LOL	`[.1lcl]
 KQED	K Q E D
@@ -9,65 +9,67 @@ nvaccess	N V Access
 pri	p r i
 MYSQL	my s q l
 GUI	g u i
-gsmarena	GSM Arena
 KUOW	K U O W
+gsmarena	GSM Arena
 IRIB	i r i b
 volte-face	`[.2valt.1fas]
 fixme	Fix Me
-stackoverflow	stack overflow
 prodos	`[.1pro.2das]
+stackoverflow	stack overflow
 techradar	tech radar
 KUPS	k u p s
 emojipedia	`[.0X.2mo.0Ji.1pi.0Fi.0x]
-onmouseover	On Mouse Over
 dvbviewer	d v b viewer
+onmouseover	On Mouse Over
 onmouseout	On Mouse Out
-airbnb	air b n b
 afb	ay f b
-csun	`[.1si.2sHn]
-howtopronounce	how to pronounce
+airbnb	air b n b
 Liblouis	lib loui
-WAMU	W A M U
+howtopronounce	how to pronounce
+csun	`[.1si.2sHn]
 sqlite	S Q Lite
+WAMU	W A M U
 IFA	`[.1i.0fx]
 epub	`[.1i.2pHb]
 WEIU	w e i u
 CSUN	`[.1si.2sHn]
 gofundme	`[.2go.1fHnd.0mi]
 cbsnews	c b s news
-EPUB	`[.1i.2pHb]
 bitdefender	Bit defender
-pwnage	`[.1po.0nXJ]
-geforce	g force
-opensource	open source
+EPUB	`[.1i.2pHb]
+fxbus	fx bus
+macrumors	Mack rumors
 gsmarenateam	GSM Arena Team
-macrumors	MacRumors
+opensource	open source
+geforce	g force
+pwnage	`[.1po.0nXJ]
 Techonline	Tech Online
 freedomscientific	Freedom Scientific
-washingtonpost	Washington Post
 OLED	`[.2o.2El.2i.1di]
+washingtonpost	Washington Post
+discordapp	discord app
 LIBLOUIS	lib loui
-washpost	wash post
 KUSC	K U S C
+washpost	wash post
 IMAP	`[.1Y.0mAp]
 theguardian	the guardian
-KUSF	k u s f
 APA	Aigh P Aigh
+KUSF	k u s f
 abledata	able data
 DIRECTV	`[.0dx.2rEk.2ti.1vi]
-Textsynth	Text Synth
 sourceforge	Source Forge
+Textsynth	Text Synth
 KES	K E S
 Cloudflare	Cloud Flare
-Xi	`[.1Si]
 SMA	S M A
-WHO	w h o
+Xi	`[.1Si]
 adguard	ad guard
+WHO	w h o
 WABE	w aigh b e
 nextcloud	Next Cloud
 probraille	pro braille
-howtogeek	how to geek
 thefreedictionary	the free dictionary
+howtogeek	how to geek
 ios	Igh O S
 progdvb	prog d v b
 pwn	`[.1pon]
@@ -78,22 +80,22 @@ Init	`[.1In.0It]
 Audi	`[.1W.0Fi]
 Onmouseover	On Mouse Over
 WUKY	W U K Y
-ACT	Ay C T
-mixcloud	mix cloud
 ODE	O D E
+mixcloud	mix cloud
+ACT	Ay C T
 aka	ay k ay
 DOS	`[.1das]
 androidcentral	android central
-ibm	i b m
 Sys	`[.1sIs]
+ibm	i b m
 Bitdefender	Bit defender
-objnav	Obj Nav
-ip	i P
 Volte-face	`[.2valt.1fas]
+ip	i P
+objnav	Obj Nav
 waitwait	wait wait
 TEFL	`[.1tE.0fxl]
-ibmtts	IBM TTS
 tbrnlive	T B R N Lighv
+ibmtts	IBM TTS
 amazonsmile	amazon smile
 tête-à-têtes	`[.2tE.0Fx.1tEts]
 Emojipedia	`[.0X.2mo.0Ji.1pi.0Fi.0x]
@@ -102,85 +104,83 @@ WUNC	W U N C
 lol	`[.1lcl]
 Tête-à-tête	`[.2tE.0Fx.1tEt]
 gui	g u i
-nytimes	N Y Times
 Mixcloud	mix cloud
+nytimes	N Y Times
 Abe	`[.1a.0be]
 TESOL	`[.1tE.2scl]
 Opensource	Open Source
 techonline	Tech Online
-omg	o m g
-tunein	tune in
 xmplay	X M Play
-Nextcloud	Next Cloud
+tunein	tune in
+omg	o m g
 owncloud	Own Cloud
+Nextcloud	Next Cloud
 Wii	`[.1wi]
 sndup	S N D Up
-AK	AY k
 Jinping	Jin Pin
+AK	AY k
 FAQ	`[.2Ef.2e.1kyu]
-openvpn	open V P N
 wbez	w b e z
-VOA	V O A
+openvpn	open V P N
 elmercat	elmer cat
-theverge	the verge
+VOA	V O A
 nvda	N V D A
-xmradio	X M radio
+theverge	the verge
 blindbargains	blind bargains
+xmradio	X M radio
 AR	ay R
 mouseover	Mouse Over
-Macron	`[.2mA.1kran]
 ifa	`[.1i.0fx]
-IMHO	i m h o
+Macron	`[.2mA.1kran]
 mysql	my s q l
+IMHO	i m h o
 AV	ay v
 Onmouseout	On Mouse Out
-abcnews	ay b c news
 apkmirror	ay p k mirror
-Statusbar	Status Bar
+abcnews	ay b c news
 blindgeek	blind geek
+Statusbar	Status Bar
 CES	C E S
-cloudflare	Cloud Flare
 cnet	`[.1si.2nEt]
+cloudflare	Cloud Flare
 alonhosting	alon hosting
 WERS	w e r s
 sys	`[.1sIs]
-wnyc	w n y c
 CNET	`[.1si.2nEt]
+wnyc	w n y c
 NYC	n y c
 Probraille	pro braille
 jpeg	`[.1Je.2pEg]
 WETA	w e t aigh
-WESS	w e s s
 JPEG	`[.1Je.2pEg]
+WESS	w e s s
 mushroomfm	mushroom F M
 init	`[.1In.0It]
-audi	`[.1W.0Fi]
 whatsapp	whats app
-Dvbviewer	D V B viewer
+audi	`[.1W.0Fi]
 apm	ay p m
+Dvbviewer	D V B viewer
 NYT	n y t
 pwned	`[.1pond]
 trademe	`[.1tred.0mi]
-ubereats	oober eats
 fileindex	file index
+ubereats	oober eats
 tête-à-tête	`[.2tE.0Fx.1tEt]
-coolblindtech	Cool Blind Tech
 onlyfans	only fans
+coolblindtech	Cool Blind Tech
 os	O S
 AKA	aigh k aigh
-EARC	E A R C
-directv	`[.0dx.2rEk.2ti.1vi]
 rsgames	R S games
-tabindex	Tab Index
+directv	`[.0dx.2rEk.2ti.1vi]
+EARC	E A R C
 wii	`[.1wi]
+tabindex	Tab Index
 USAGM	u s aigh g m
-SUV	`[.2Es.2yu.1vi]
 mbox	`[.1Em.2baks]
+SUV	`[.2Es.2yu.1vi]
 AKK	ay k k
 Sndup	S N D Up
 Mouseover	Mouse Over
 EV	E V
 Prodos	`[.1pro.2das]
 av	ay v
-discordapp	discord app
-fxbus	fx bus
