@@ -9,6 +9,8 @@ Otherwise, to update or install: copy all contained files with a .dic  extention
 In NVDA, this is quite often in a folder called "eloquence" or "ibmtts" in the synthDrivers folder of the addon you installed.
 
 If you are wrapping this driver yourself, you will need to implement it such that your implementation can load and parse these files (not documented here).
+### hyphenated words support
+The main dictionary has support for words containing hyphens. By default, however, NVDA will block the hyphen from being sent to the synthesizer. To make this work as intended, open NVDA's punctuation/symbol prununciation settings under preferences, type dash, and set the level to always or only below symbol's level. The default level should be at most, which if you set to the only below setting will cause the dash to reach the driver unchanged at the some and none levels, but to be spoken at the most level.
 ## Contributing
 Contributions will be factored into a new stable version of the dictionaries, to be released on the first day of every month.
 
