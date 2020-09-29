@@ -561,5 +561,5 @@ systemctl	system ctl
 hostnamectl	hostname ctl
 chmod	ch mod
 chown	ch own
-mariadb	maria db
+mariadb	maria d b
 ufw	u f w
