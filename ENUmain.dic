@@ -9,7 +9,7 @@ tabindex	Tab Index
 liblouis	lib louis
 abcnews	ay b c news
 audi	owdi
-omg	`0 `[.1o] `0 `[.1Em] `[.J1i]
+omg	`0 `[.1o] `0 `[.1Em] `[.1Ji]
 LOL	`[.1lcl]
 AKA	aigh k aigh
 Nextcloud	Next Cloud
@@ -331,7 +331,7 @@ Parton's	`[.1par.0?Nz]
 UFS	u f s
 Abe's	`[.1a.0bez]
 MINSK	`[.1mInsk]
-idk	`0 `[.1Y] `0 `[.di] `[.1ke]
+idk	`0 `[.1Y] `0 `[.0di] `[.1ke]
 bloodred	blood red
 Bloodred	blood red
 BLOODRED	blood red
@@ -592,3 +592,10 @@ PASSKEY	pass `0 key
 passkeys	pass `0 keys
 Passkeys	pass `0 keys
 PASSKEYS	pass `0 keys
+passcode	pass `0 code
+Passcode	pass `0 code
+PASSCODE	pass `0 code
+passcodes	pass `0 codes
+Passcodes	pass `0 codes
+PASSCODES	pass `0 codes
+VGA	`0 `[.1vi] `0 `[.1Ji] `[.1e]
