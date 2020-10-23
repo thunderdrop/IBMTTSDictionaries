@@ -75,6 +75,8 @@ probraille	pro braille
 Textsynth	Text Synth
 nlsbard	N L S bard
 Billets-doux	`[.2bI.0let.1du]
+Billets-Doux	`[.2bI.0let.1du]
+BILLETS-DOUX	`[.2bI.0let.1du]
 jpeg	`[.1Je.2pEg]
 dvbviewer	d v b viewer
 WERS	w e r s
@@ -147,6 +149,8 @@ statusbar	Status Bar
 elmercat	elmer cat
 SMA	S M A
 volte-face	`[.2valt.1fas]
+Volte-Face	`[.2valt.1fas]
+VOLTE-FACE	`[.2valt.1fas]
 CSUN	`[.1si.2sHn]
 CES	C E S
 Bitdefender	Bit defender
@@ -178,6 +182,8 @@ WEIU	w e i u
 fileindex	file index
 emojipedia	`[.0X.2mo.0Ji.1pi.0Fi.0x]
 Belles-lettres	`[.2bEl.1lE.0trx]
+Belles-Lettres	`[.2bEl.1lE.0trx]
+BELLES-LETTRES	`[.2bEl.1lE.0trx]
 CNET	seanet
 EPUB	`[.1i.2pHb]
 coolblindtech	Cool Blind Tech
@@ -254,8 +260,10 @@ FIDE	fee day
 afc	ay f c
 mise-en-scène	`[.2mi.0zcn.1sEn]
 Mise-en-scène	`[.2mi.0zcn.1sEn]
+Mise-En-Scène	`[.2mi.0zcn.1sEn]
 mise-en-scènes	`[.2mi.0zcn.1sEnz]
 Mise-en-scènes	`[.2mi.0zcn.1sEnz]
+Mise-En-Scènes	`[.2mi.0zcn.1sEnz]
 MISE-EN-SCENE	`[.2mi.0zcn.1sEn]
 MISE-EN-SCENES	`[.2mi.0zcn.1sEnz]
 Centcom	`[.1sEnt.2kam]
@@ -291,6 +299,8 @@ openstreetmap	open Street map
 POS	p o s
 bas-relief	`[.2ba.0rX.1lif]
 Bas-relief	`[.2ba.0rX.1lif]
+Bas-Relief	`[.2ba.0rX.1lif]
+BAS-RELIEF	`[.2ba.0rX.1lif]
 IS	i s
 languagepod	language pod
 rocketlanguages	rocket languages
@@ -632,3 +642,8 @@ Cater-cornered	`[.1kA.0Fi.2kcr.0nRd]
 Cater-Cornered	`[.1kA.0Fi.2kcr.0nRd]
 CATER-CORNERED	`[.1kA.0Fi.2kcr.0nRd]
 Jos	joss
+ALM	ey l m
+palsy-walsy	`[.2pAl.0zi.1wAl.0zi]
+Palsy-walsy	`[.2pAl.0zi.1wAl.0zi]
+Palsy-Walsy	`[.2pAl.0zi.1wAl.0zi]
+PALSY-WALSY	`[.2pAl.0zi.1wAl.0zi]
