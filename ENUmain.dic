@@ -261,9 +261,11 @@ afc	ay f c
 mise-en-scène	`[.2mi.0zcn.1sEn]
 Mise-en-scène	`[.2mi.0zcn.1sEn]
 Mise-En-Scène	`[.2mi.0zcn.1sEn]
+MISE-EN-SCÈNE	`[.2mi.0zcn.1sEn]
 mise-en-scènes	`[.2mi.0zcn.1sEnz]
 Mise-en-scènes	`[.2mi.0zcn.1sEnz]
 Mise-En-Scènes	`[.2mi.0zcn.1sEnz]
+MISE-EN-SCÈNES	`[.2mi.0zcn.1sEnz]
 MISE-EN-SCENE	`[.2mi.0zcn.1sEn]
 MISE-EN-SCENES	`[.2mi.0zcn.1sEnz]
 Centcom	`[.1sEnt.2kam]
@@ -701,3 +703,4 @@ Crosstalk	cross `0 talk
 CROSSTALK	cross `0 talk
 DXOMARK	d x o mark
 dxomark	d x o mark
+EFS	e f s
