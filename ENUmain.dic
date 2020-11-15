@@ -705,5 +705,9 @@ DXOMARK	d x o mark
 dxomark	d x o mark
 EFS	e f s
 SRAM	es  `0 ram
-VAD	v ey d
-ENT	e n t
+VAD	`[.2vi.0e.1di]
+ENT	`[.2i.0En.1ti]
+CUV	`[.2si.0yu.1vi]
+CUV's	`[.2si.0yu.1viz]
+ICO	`[.2Y.0si.1o]
+ICO's	`[.2Y.0si.1oz]
