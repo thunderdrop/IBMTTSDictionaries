@@ -31057,6 +31057,7 @@ encephalomyelitides	`[.0Xn.2sE.0fx.2lo.0mY.0x.1lI.0FX.2Fiz]
 encephalomyocarditis	`[.0Xn.2sE.0fxl.0o.2mY.0x.2kar.1dY.0FXs]
 encephalopathic	`[.0Xn.2sE.0fxl.0x.1pA.0TXk]
 rascoe	`[.1ra.0sko]
+<<<<<<< HEAD
 aducanumab	`[.2A.0FX.1kA.0nX.2mAb]
 lisey	`[.1li.0si]
 monojet	`[.1ma.0no.2JEt]
@@ -31077,3 +31078,8 @@ telemovies	`[.1tEl.0X.2mu.0viz]
 telefoto	`[.1tEl.0X.2fo.0Fo]
 telephoto	`[.1tEl.0X.2fo.0Fo]
 telephotos	`[.1tEl.0X.2fo.0Foz]
+=======
+astrophage	`[.1As.0trx.2feJ]
+hectopascal	`[.1hEk.0tX.0pAs.2kAl]
+faer	`[.1fEr]
+>>>>>>> f0fd135d84b8dccca9305e74af48a5d284aa47ae
