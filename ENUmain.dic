@@ -1001,8 +1001,8 @@ EEG	e e g
 openssh	open ssh
 fstab	fs tab
 EFI	e f i
-initrd	init rd
-initramfs	init ram fs
+initrd	`[.1In.0It] rd
+initramfs	`[.1In.0It] ram fs
 syslinux	sis `0 linux
 vmlinux	vm linux
 bzip	b `0 zip
