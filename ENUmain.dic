@@ -998,3 +998,22 @@ iforgot	i Forgot
 Xclipse	x clipse
 ALS	ey l s
 EEG	e e g
+openssh	open ssh
+fstab	fs tab
+EFI	e f i
+initrd	init rd
+initramfs	init ram fs
+syslinux	sis `0 linux
+vmlinux	vm linux
+bzip	b `0 zip
+gzip	g `0 zip
+debuginfo	debug info
+uname	u `0 name
+nmap	n `0 map
+sysfs	sis fs
+devpts	dev pts
+securityfs	security fs
+debugfs	debug fs
+autofs	auto fs
+mqueue	m `0 queue
+hugepages	huge `0 pages
