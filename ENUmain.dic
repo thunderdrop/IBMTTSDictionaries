@@ -1017,3 +1017,5 @@ debugfs	debug fs
 autofs	auto fs
 mqueue	m `0 queue
 hugepages	huge `0 pages
+McCoury	`[.0mX.1kur.0i]
+McCoury's	`[.0mX.1kur.0iz]
