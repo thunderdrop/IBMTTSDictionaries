@@ -10,7 +10,7 @@ liblouis	lib louis
 abcnews	ay b c news
 audi	owdi
 omg	`0 `[.1o] `0 `[.1Em] `[.1Ji]
-LOL	L O `[El]
+LOL	`[.2El.0o.1El]
 AKA	aigh k aigh
 Nextcloud	Next Cloud
 Volte-face	`[.2valt.1fas]
@@ -771,8 +771,8 @@ facepalms	face `0 palms
 facepalming	face `0 palming
 facepalmed	face `0 palmed
 tsa	t s ay
-lol	L O `[El]
-Lol	L O `[El]
+lol	`[.2El.0o.1El]
+Lol	`[.2El.0o.1El]
 IMEI	`1 I M E `1 I
 vgmstream	VGM Stream
 IED	i E D
@@ -1054,3 +1054,8 @@ tuk-tuk	`[.1tUk.2tUk]
 Tuk-tuk	`[.1tUk.2tUk]
 Tuk-Tuk	`[.1tUk.2tUk]
 TUK-TUK	`[.1tUk.2tUk]
+DOI	d o i
+SEO	`0 `[.1Es] `0 `[.1i] `[.1o]
+SEO's	`0 `[.1Es] `0 `[.1i] `[.1oz]
+SMO	`0 `[.1Es] `0 `[.1Em] `[.1o]
+SMO's	`0 `[.1Es] `0 `[.1Em] `[.1oz]
