@@ -18,7 +18,7 @@ KUSC	K U S C
 fixme	Fix Me
 KUSF	k u s f
 AKK	ay k k
-IMAP	`[.1Y.0mAp]
+IMAP	i `0 map
 EARC	E A R C
 wnyc	w n y c
 appleinsider	apple insider
@@ -29,7 +29,7 @@ TESOL	`[.1tE.2scl]
 washingtonpost	Washington Post
 opensource	open source
 Mixcloud	mix cloud
-mbox	`[.1Em.2baks]
+mbox	em `0 box
 init	`[.1In.0It]
 DIRECTV	`[.0dx.2rEk.2ti.1vi]
 os	O S
@@ -55,7 +55,7 @@ aka	ay k ay
 stackoverflow	stack overflow
 Cloudflare	Cloud Flare
 DOS	`[.1das]
-csun	`[.1si.2sHn]
+csun	see `0 sun
 wbez	w b e z
 techonline	Tech Online
 Laissez-faire	`[.2lE.0se.1fer]
@@ -74,7 +74,7 @@ nlsbard	N L S bard
 Billets-doux	`[.2bI.0le.1du]
 Billets-Doux	`[.2bI.0le.1du]
 BILLETS-DOUX	`[.2bI.0le.1du]
-jpeg	`[.1Je.2pEg]
+jpeg	jay `0 peg
 dvbviewer	d v b viewer
 WERS	w e r s
 geforce	g `0 force
@@ -94,7 +94,7 @@ trademe	`[.1tred.0mi]
 userhost	user host
 cnet	seanet
 WABE	w aigh b e
-epub	`[.1i.2pHb]
+epub	e `0 pub
 Sndup	S N D Up
 amazonsmile	amazon smile
 howtogeek	how to geek
@@ -148,7 +148,7 @@ SMA	S M A
 volte-face	`[.2valt.1fas]
 Volte-Face	`[.2valt.1fas]
 VOLTE-FACE	`[.2valt.1fas]
-CSUN	`[.1si.2sHn]
+CSUN	see `0 sun
 CES	C E S
 Bitdefender	Bit defender
 Jinping	Jin Pin
@@ -168,7 +168,7 @@ thefreedictionary	the free dictionary
 ip	i P
 xmplay	X M Play
 onmouseover	On Mouse Over
-JPEG	`[.1Je.2pEg]
+JPEG	j `0 peg
 nytimes	N Y Times
 belles-lettres	`[.2bEl.1lE.0trx]
 fxbus	fx bus
@@ -181,7 +181,7 @@ Belles-lettres	`[.2bEl.1lE.0trx]
 Belles-Lettres	`[.2bEl.1lE.0trx]
 BELLES-LETTRES	`[.2bEl.1lE.0trx]
 CNET	seanet
-EPUB	`[.1i.2pHb]
+EPUB	e `0 pub
 coolblindtech	Cool Blind Tech
 ifixit	i Fix It
 mushroomfm	mushroom F M
@@ -264,9 +264,9 @@ Mise-En-Scènes	`[.2mi.0zcn.1sEnz]
 MISE-EN-SCÈNES	`[.2mi.0zcn.1sEnz]
 MISE-EN-SCENE	`[.2mi.0zcn.1sEn]
 MISE-EN-SCENES	`[.2mi.0zcn.1sEnz]
-Centcom	`[.1sEnt.2kam]
-CENTCOM	`[.1sEnt.2kam]
-USCENTCOM	U S `[.1sEnt.2kam]
+Centcom	sent `0 caam
+CENTCOM	sent `0 caam
+USCENTCOM	U S sent `0 caam
 notebookcheck	notebook check
 espn	e s p n
 EBU	e b u
@@ -326,9 +326,6 @@ thenextweb	the next web
 LA	l ay
 QA	q ay
 foreignpolicy	foreign policy
-Centcom's	`[.1sEnt.2kamz]
-CENTCOM's	`[.1sEnt.2kamz]
-CSUN's	`[.1si.2sHnz]
 Macron's	`[.2mA.1kranz]
 TESOL's	`[.1tE.2sclz]
 TEFL's	`[.1tE.0fxlz]
@@ -1061,3 +1058,11 @@ SMO	`0 `[.1Es] `0 `[.1Em] `[.1o]
 SMO's	`0 `[.1Es] `0 `[.1Em] `[.1oz]
 UCAS	`[.1yu.2kAs]
 UTI	u t i
+e-zine	e `0 zeen
+E-zine	e `0 zeen
+E-Zine	e `0 zeen
+E-ZINE	e `0 zeen
+e-zines	e `0 zeenz
+E-zines	e `0 zeenz
+E-Zines	e `0 zeenz
+E-ZINES	e `0 zeenz
