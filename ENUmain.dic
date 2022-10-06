@@ -155,7 +155,6 @@ VOA	V O A
 gui	g u i
 Probraille	pro braille
 ifa	`[.1i.0fx]
-pwned	`[.1pond]
 Realspeak	real speak
 OLED	`[.2o.2El.2i.1di]
 Init	`[.1In.0It]
@@ -989,11 +988,6 @@ USSTRATCOM	u s strat `0 kaam
 USP	u s p
 IB	i b
 Pwn	`[.1pon]
-Pwned	`[.1pond]
-pwns	`[.1ponz]
-Pwns	`[.1ponz]
-pwning	`[.1po.0nIG]
-Pwning	`[.1po.0nIG]
 ILY	i l y
 ADGUARD	ad guard
 winzip	win zip
@@ -1081,3 +1075,5 @@ McInerney	`[.2mAk.0X.1nR.0ni]
 McInerney's	`[.2mAk.0X.1nR.0niz]
 GNU's	`[.0gx.1nuz]
 WYSO	w y s o
+FMOD	`[.1Ef.2mad]
+FMOD's	`[.1Ef.2madz]
