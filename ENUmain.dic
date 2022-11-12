@@ -169,6 +169,7 @@ fxbus	fx bus
 Onmouseover	On Mouse Over
 waitwait	wait wait
 tunein	tune in
+TUNEIN	tune in
 WEIU	w e i u
 fileindex	file index
 Belles-lettres	`[.2bEl.1lE.0trx]
@@ -733,7 +734,6 @@ openmpt	Open MPT
 MBROLA	`[Embr1olx]
 Mbrola	`[Embr1olx]
 Hydrogenaudio	Hydrogen Audio
-Jawed	`[J1avXd]
 ID'd	`1 I `[did]
 roledescription	role description
 Yooka-Laylee	`[yukx1leli]
@@ -1096,3 +1096,5 @@ Q-Tips	`[.1kyu.2tIps]
 Q-Tip's	`[.1kyu.2tIps]
 WUSF	w u s f
 KUER	k u e r
+TUMBLR	`[.1tHm.0blR]
+TUMBLR's	`[.1tHm.0blRz]
