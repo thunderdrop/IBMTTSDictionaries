@@ -553,8 +553,6 @@ getopts	get opts
 Getopts	get opts
 printf	print f
 histfile	hist file
-signin	sign in
-Signin	sign in
 onclick	onn click
 Onclick	onn click
 cater-corner	`[.1kA.0Fi.2kcr.0nR]
