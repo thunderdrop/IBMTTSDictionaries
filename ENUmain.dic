@@ -860,7 +860,6 @@ fstab	fs tab
 EFI	ee eff igh
 initrd	`[.1In.0It] rd
 initramfs	`[.1In.0It] ram fs
-syslinux	sis `0 linux
 vmlinux	vm linux
 bzip	bea `0 zip
 gzip	jee `0 zip
@@ -934,8 +933,6 @@ USP	yue ess pea
 IB	igh bea
 Pwn	`[.1pon]
 ILY	igh ell wie
-winzip	win zip
-Winzip	win zip
 Vaid-Menon	vad mennon
 VAID-MENON	vad mennon
 ASM	ay ess em
