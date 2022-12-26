@@ -20,7 +20,9 @@ os	oe ess
 tête-à-têtes	`[.2tE.0Fx.1tEts]
 Billet-doux	`[.2bI.0le.1du]
 WAMU	doubleyou ay em yue
-Airbnb	Air BNB
+Airbnb	Air bea en bea
+airbnb	Air bea en bea
+airbnbs	air bea en beas
 AK	ay keigh
 ibmtts	IBM TTS
 billet-doux	`[.2bI.0le.1du]
@@ -431,9 +433,11 @@ Airbnbs	Air BN BEES
 UWP	yue doubleyou pea
 IGN	igh jee en
 P!nk	pink
+vgmstream	vee jee em stream
 tsa	tea ess ay
 lol	elll oe ell
 Lol	elll oe ell
+url	URL
 IMEI	igh em ee igh
 IED	igh ee dee
 Pulseaudio	Pulse Audio
@@ -816,3 +820,4 @@ naiveproxy	naive proxy
 Naiveproxy	naive proxy
 GUID	jee yue igh dee
 UUID	yue yue igh dee
+WUWM	doubleyou yue doubleyou em
