@@ -806,12 +806,10 @@ CSAM	`[.1si.2sAm]
 CSAM's	`[.1si.2sAmz]
 Vypr	viper
 MCAS	`[.1Em.2kAs]
-Champs-Élysées	`[.2San.0ze.0li.1ze]
-Elysées	`[.2e.0li.1ze]
 Iplayer	igh Player
 IPLAYER	igh Player
-Champs-Élysées's	`[.2San.0ze.0li.1zez]
-Elysées's	`[.2e.0li.1zez]
+Champs-Élysées's	`[.2San.0ze.0li.1ze]
+Elysées's	`[.2e.0li.1ze]
 CRE	sea ar ee
 naiveproxy	naive proxy
 Naiveproxy	naive proxy
@@ -869,8 +867,6 @@ fyp	eff wie pea
 FYP	eff wie pea
 aka	ay keigh ay
 SEEG	ess ee ee jee
-Da'Shaun	`[.2de.1Scn]
-Da'Shaun's	`[.2de.1Scnz]
 journalctl	journal ctl
 initctl	init ctl
 thespinoff	the spinoff
