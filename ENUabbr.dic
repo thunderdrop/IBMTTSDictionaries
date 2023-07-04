@@ -79,3 +79,5 @@ Inorg	inorganic
 Qty	quantity
 esc	escape
 ESC	escape
+motd	message of the day
+MOTD	message of the day
