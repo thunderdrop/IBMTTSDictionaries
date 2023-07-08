@@ -810,8 +810,8 @@ YMO	wie em oe
 GEHA	jee ee aitch ay
 randchal	`[.1rAnd.2CAl]
 randunofficial	rand unofficial
-onlinemsg	online emm ess gee
-offlinemsg	offline emm ess gee
+onlinemsg	online em ess gee
+offlinemsg	offline em ess gee
 lbplayer	ell bea player
 emailset	`[.1i.2mel.2sEt]
 emailget	`[.1i.2mel.2gEt]
@@ -891,7 +891,7 @@ KHUU	keigh aiche yue yue
 KIGG	keigh aye jee jee
 KIAN	keigh aye ay enn
 KOTZ	keigh oh tea zee
-KNIB	keigh en eye bee
+KNIB	keigh en eye bea
 KUUK	keigh yue yue keigh
 KORI	keigh oh ar eye
 KIEA	keigh eye ee ay
@@ -932,7 +932,7 @@ KUAF	keigh yue eigh eff
 KASU	keigh eigh ess yue
 KUAR	keigh yue eigh ar
 KHEC	keigh aiche ee sea
-KESC	keigh ee es sea
+KESC	keigh ee ess sea
 KUOR	keigh yue oh ar
 KAZU	keigh ay zee yue
 KUOP	keigh yue oh pee
@@ -977,7 +977,7 @@ WUOL	doubleyou yue oh ell
 WEAA	doubleyou ee ay ay
 WYPO	doubleyou wy pee oh
 WESM	doubleyou ee ess em
-WUMB	doubleyou yue em bee
+WUMB	doubleyou yue em bea
 WAMQ	doubleyou ay em cue
 WAIC	doubleyou ay eye sea
 WUOM	doubleyou yue oh em
@@ -995,7 +995,7 @@ WURC	doubleyou yue ar sea
 KAUD	keigh ay yue dee
 KUHM	keigh yue aiche em
 KYPH	keigh wy pee aiche
-KIOS-FM	keigh eye oh es eff em
+KIOS-FM	keigh eye oh ess eff em
 KIOS	keigh igh oh ess
 WEVO	doubleyou ee vee oh
 WEVQ	doubleyou ee vee cue
@@ -1047,8 +1047,8 @@ KOSU	keigh oh ess yue
 KWOU	keigh doubleyou oh yue
 KOAC	keigh oh eigh sea
 KOAC-FM	keigh oh eigh sea eff em
-KOAB	keigh oh eigh bee
-KOAB-FM	keigh oh eigh bee eff em
+KOAB	keigh oh eigh bea
+KOAB-FM	keigh oh eigh bea eff em
 KOGL	keigh oh jee ell
 KAGI	keigh eigh jee igh
 KOAP	keigh oh eigh pee
@@ -1076,7 +1076,7 @@ KUST	keigh yue ess tea
 KUXU	keigh yue ex yue
 KUHU	keigh yue aiche yue
 KUOU	keigh yue oh yue
-KUSK	keigh yue es keigh
+KUSK	keigh yue ess keigh
 WRIQ	doubleyou ar igh cue
 WIQR	doubleyou igh cue ar
 WISE-FM	doubleyou igh ess ee ef em
@@ -1112,7 +1112,10 @@ KAIW	keigh eigh igh doubleyou
 KUWD	keigh yue doubleyou dee
 KUWT	keigh yue doubleyou tea
 KEUW	keigh ee yue doubleyou
-abdl	ay bee dee ell
+abdl	ay bea dee ell
 ynab	`[.1wY.2nAb]
 YNAB	`[.1wY.2nAb]
 OMB	oh em bee
+ibmeci	igh bee em ee sea igh
+IBMECI	igh bee em ee sea igh
+ibmtts	igh bee em tea tea ess
