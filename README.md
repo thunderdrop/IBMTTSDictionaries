@@ -16,6 +16,8 @@ Contributions will be factored into a new stable version of the dictionaries, to
 
 feel free to make as many pull requests as you wish, with your modifications or additions to the dictionaries. Pull requests must consist of valid phonemic syntax for American English.
 
+**Note**: ECI is not a Unicode-aware library, and thus the dictionary files are not Unicode. For presumably every non-Asian language the dictionary files are expected to have a character encoding of Windows 1252. This is an extended ASCII charset and so anything pure ASCII will of course work, but if going beyond ASCII make sure that your text editor loads and saves in cp1252, sometimes identified as ANSI on systems in these languages. Failure to do so in pull requests may result in your pull request being rejected or else a possible breaking of many entries in the existing dictionary.
+
 If you wish to contribute without making a pull request, comment on the Submissions issue for the present month with your changes, with optional syntax, phonetic pronunciation guide, or IPA transcription. You will find the relevant issues open and awaiting your input!
 
 Pronunciation tends toward General American for most words, though IBMTTS itself has an accent more specific to middle and northern New England. Names and other proper nouns may require some discussion.
