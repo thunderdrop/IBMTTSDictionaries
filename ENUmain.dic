@@ -730,8 +730,11 @@ Vypr	viper
 MCAS	`[.1Em.2kAs]
 Iplayer	igh Player
 IPLAYER	igh Player
-Champs-Élysées's	`[.2San.0ze.0li.1ze]
-Elysées's	`[.2e.0li.1ze]
+Champs-Elysees	`[.2Scn.0ze.2li.1ze]
+Champs-Élysées	`[.2Scn.0ze.2li.1ze]
+Champs-Elysées	`[.2Scn.0ze.2li.1ze]
+Champs-Élysées's	`[.2Scn.0ze.0li.1zez]
+Elysées's	`[.2e.0li.1zez]
 CRE	sea ar ee
 naiveproxy	naive proxy
 Naiveproxy	naive proxy
