@@ -797,8 +797,6 @@ initctl	init ctl
 thespinoff	the spinoff
 qcsalon	qc salon
 apk	ay pee kay
-exe	ee `0 ex ee
-EXE	ee `0 ex ee
 dgdebug	dee gee debug
 utf	yew tea eff
 groupadd	group `0 add
