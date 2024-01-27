@@ -295,10 +295,14 @@ palsy-walsy	`[.2pAl.0zi.1wAl.0zi]
 Palsy-walsy	`[.2pAl.0zi.1wAl.0zi]
 Palsy-Walsy	`[.2pAl.0zi.1wAl.0zi]
 PALSY-WALSY	`[.2pAl.0zi.1wAl.0zi]
-shangri-la	`[.2SAG.0grX.1la]
-Shangri-la	`[.2SAG.0grX.1la]
-Shangri-La	`[.2SAG.0grX.1la]
-SHANGRI-LA	`[.2SAG.0grX.1la]
+shangri-la	`[.1SAG.0grX.2la]
+Shangri-la	`[.1SAG.0grX.2la]
+Shangri-La	`[.1SAG.0grX.2la]
+SHANGRI-LA	`[.1SAG.0grX.2la]
+shangri-las	`[.1SAG.0grX.2laz]
+Shangri-las	`[.1SAG.0grX.2laz]
+Shangri-Las	`[.1SAG.0grX.2laz]
+SHANGRI-LAS	`[.1SAG.0grX.2laz]
 CE	cea ee
 DXOMARK	dee eks oe mark
 EFS	ee eff ess
@@ -1117,3 +1121,4 @@ CAQI	cea aigh kew igh
 EAQI	ee aigh kew igh
 XGIMI	`[.1Eks.2JI.0mi]
 XGIMI's	`[.1Eks.2JI.0miz]
+BYD	bee wie dee
