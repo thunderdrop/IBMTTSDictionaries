@@ -1179,3 +1179,29 @@ heic	aitch ee igh cea
 AEM	ay ee em
 AWM	ay doubleyou em
 OTS	oe tea ess
+auditctl	audit ctl
+bootctl	boot ctl
+busctl	bus ctl
+coredumpctl	coredump ctl
+homectl	home ctl
+importctl	import ctl
+keyctl	key ctl
+lli	l l i
+localectl	locale ctl
+machinectl	machine ctl
+networkctl	network ctl
+oom	o o m
+OOM	 o o m
+oomctl	o o m ctl
+oomd	o o m d
+portablectl	portable ctl
+resolvectl	resolve ctl
+smartctl	smart ctl
+sysctl	sys ctl
+teamdctl	`[.1tim.2di] ctl
+udisksctl	udisks ctl
+userdb	user db
+userdbctl	user db ctl
+varlinkctl	varlink ctl
+zram	z `0 ram
+zramctl	z `0 ram ctl
