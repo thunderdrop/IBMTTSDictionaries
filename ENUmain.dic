@@ -1205,3 +1205,4 @@ userdbctl	user db ctl
 varlinkctl	varlink ctl
 zram	z `0 ram
 zramctl	z `0 ram ctl
+loginctl	login ctl
