@@ -1209,3 +1209,6 @@ loginctl	login ctl
 UNWTO	yue en doubleyou tea oe
 Elibrary	ee library
 elibrary	ee library
+rustc	rust `0 c
+rustfmt	rust `0 f `0 m t
+rustup	rust `0 up
